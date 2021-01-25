@@ -1,0 +1,237 @@
+Domain Name: github.com
+Registry Domain ID: 1264983250_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2020-09-08T02:18:27-0700
+Creation Date: 2007-10-09T11:20:50-0700
+Registrar Registration Expiration Date: 2022-10-09T00:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registrant Organization: GitHub, Inc.
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+Admin Organization: GitHub, Inc.
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+Tech Organization: GitHub, Inc.
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+Name Server: ns-1707.awsdns-21.co.uk
+Name Server: ns-421.awsdns-52.com
+Name Server: dns2.p08.nsone.net
+Name Server: dns3.p08.nsone.net
+Name Server: ns-1283.awsdns-32.org
+Name Server: ns-520.awsdns-01.net
+Name Server: dns4.p08.nsone.net
+Name Server: dns1.p08.nsone.net
+DNSSEC: unsigned
+
+
+
+
+
+
+Domain Name: escapefromtarkov.com
+Registry Domain ID: 1860546919_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.wildwestdomains.com
+Registrar URL: http://www.wildwestdomains.com
+Updated Date: 2020-08-14T15:10:47Z
+Creation Date: 2014-05-28T15:31:43Z
+Registrar Registration Expiration Date: 2022-05-28T15:31:43Z
+Registrar: Wild West Domains, LLC
+Registrar IANA ID: 440
+Registrar Abuse Contact Email: email@wildwestdomains.com
+Registrar Abuse Contact Phone: +1.4806242505
+Reseller: TheWorldwideDomains.com
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registrant Organization: Battlestate Games Limited
+Registrant State/Province: 
+Registrant Country: UK
+Registrant Email: Select Contact Domain Holder link at https://www.secureserver.net/whois?plid=1387&domain=escapefromtarkov.com
+Admin Email: Select Contact Domain Holder link at https://www.secureserver.net/whois?plid=1387&domain=escapefromtarkov.com
+Tech Email: Select Contact Domain Holder link at https://www.secureserver.net/whois?plid=1387&domain=escapefromtarkov.com
+Name Server: FAY.NS.CLOUDFLARE.COM
+Name Server: PETE.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+
+
+
+
+
+
+
+
+Domain Name: reddit.com
+Registry Domain ID: 153584275_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2020-03-29T02:44:02-0700
+Creation Date: 2005-04-29T10:59:19-0700
+Registrar Registration Expiration Date: 2022-04-29T00:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Reddit Inc.
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/reddit.com
+Admin Organization: Reddit Inc.
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/reddit.com
+Tech Organization: Reddit Inc.
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/reddit.com
+Name Server: ns-557.awsdns-05.net
+Name Server: ns-378.awsdns-47.com
+Name Server: ns-1887.awsdns-43.co.uk
+Name Server: ns-1029.awsdns-00.org
+DNSSEC: unsigned
+
+
+
+
+
+Domain Name: twitch.com
+Registry Domain ID: 271956_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-08-26T12:19:56-0700
+Creation Date: 1997-05-27T21:00:00-0700
+Registrar Registration Expiration Date: 2021-05-26T21:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Twitch Hostmaster
+Registrant Organization: Twitch Interactive, Inc.
+Registrant Street: 225 Bush Street, 6th Floor, 
+Registrant City: San Francisco
+Registrant State/Province: CA
+Registrant Postal Code: 94104
+Registrant Country: US
+Registrant Phone: +1.4156926927
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: email@amazon.com
+Registry Admin ID: 
+Admin Name: Twitch Hostmaster
+Admin Organization: Twitch Interactive, Inc.
+Admin Street: 225 Bush Street, 6th Floor, 
+Admin City: San Francisco
+Admin State/Province: CA
+Admin Postal Code: 94104
+Admin Country: US
+Admin Phone: +1.4156926927
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: email@amazon.com
+Registry Tech ID: 
+Tech Name: Twitch Hostmaster
+Tech Organization: Twitch Interactive, Inc.
+Tech Street: 225 Bush Street, 6th Floor, 
+Tech City: San Francisco
+Tech State/Province: CA
+Tech Postal Code: 94104
+Tech Country: US
+Tech Phone: +1.4156926927
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: email@amazon.com
+Name Server: ns-2042.awsdns-63.co.uk
+Name Server: ns-1051.awsdns-03.org
+Name Server: ns-400.awsdns-50.com
+Name Server: ns-668.awsdns-19.net
+DNSSEC: unsigned
+
+
+
+
+
+Domain Name: netflix.com
+Registry Domain ID: 1404215_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-10-09T02:26:42-0700
+Creation Date: 1997-11-10T21:00:00-0800
+Registrar Registration Expiration Date: 2021-11-09T00:00:00-0800
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Netflix, Inc.
+Registrant Street: 100 Winchester Circle, 
+Registrant City: Los Gatos
+Registrant State/Province: CA
+Registrant Postal Code: 95032
+Registrant Country: US
+Registrant Phone: +1.4085403700
+Registrant Phone Ext: 
+Registrant Fax: +1.4085403737
+Registrant Fax Ext: 
+Registrant Email: email@netflix.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Netflix, Inc.
+Admin Street: 100 Winchester Circle, 
+Admin City: Los Gatos
+Admin State/Province: CA
+Admin Postal Code: 95032
+Admin Country: US
+Admin Phone: +1.4085403700
+Admin Phone Ext: 
+Admin Fax: +1.4085403737
+Admin Fax Ext: 
+Admin Email: email@netflix.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: Netflix, Inc.
+Tech Street: 100 Winchester Circle, 
+Tech City: Los Gatos
+Tech State/Province: CA
+Tech Postal Code: 95032
+Tech Country: US
+Tech Phone: +1.4085403700
+Tech Phone Ext: 
+Tech Fax: +1.4085403737
+Tech Fax Ext: 
+Tech Email: email@netflix.com
+Name Server: ns-1372.awsdns-43.org
+Name Server: ns-1984.awsdns-56.co.uk
+Name Server: ns-81.awsdns-10.com
+Name Server: ns-659.awsdns-18.net
+DNSSEC: unsigned

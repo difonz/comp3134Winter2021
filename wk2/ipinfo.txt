@@ -1,0 +1,68 @@
+Domain Name: github.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 140.82.114.3
+
+Geolocation: US (United States), MA, Massachusetts, 02110 Boston - Google Maps
+
+Reverse DNS: lb-140-82-114-3-iad.github.com
+
+
+
+Domain Name: netflix.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 54.165.16.47
+
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn - Google Maps
+
+Reverse DNS: ec2-54-165-16-47.compute-1.amazonaws.com
+
+
+
+Domain Name: escapefromtarkov.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 104.22.28.180
+
+Geolocation: US (United States), N/A, N/A, N/A N/A - Google Maps
+
+Reverse DNS entry: not found
+
+
+
+Checking Domain Name
+
+Domain Name: twitch.tv
+
+Top Level Domain: TV (Tuvalu)
+
+DNS Lookup
+
+IP Address: 151.101.66.167
+
+Geolocation: US (United States), CA, California, 94107 San Francisco - Google Maps
+
+Reverse DNS entry: not found
+
+
+Domain Name: store.steampowered.com
+
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 23.5.229.60
+
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps
+
+Reverse DNS: a23-5-229-60.deploy.static.akamaitechnologies.com
