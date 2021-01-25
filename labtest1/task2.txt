@@ -1,0 +1,23 @@
+
+Domain Name: maidstr.com
+
+Top Level Domain: COM (Commercial TLD)
+
+Domain Name: MAIDSTR.COM
+Registry Domain ID: 1938346514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Updated Date: 2019-06-19T21:08:12Z
+Creation Date: 2015-06-13T18:26:33Z
+Registry Expiry Date: 2021-06-13T18:26:33Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: 480-624-2505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS31.DOMAINCONTROL.COM
+Name Server: NS32.DOMAINCONTROL.COM
+DNSSEC: unsigned
