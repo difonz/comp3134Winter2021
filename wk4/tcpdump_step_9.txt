@@ -1,0 +1,14 @@
+18:54:29.630834 IP 165.22.231.65.ssh > cpe7c9a54ce584e-cm7c9a54ce584c.cpe.net.cable.rogers.com.51608: Flags [P.], seq 1567523708:1567523816, ack 2430257851, win 501, length 108
+18:54:29.630972 IP 165.22.231.65.ssh > cpe7c9a54ce584e-cm7c9a54ce584c.cpe.net.cable.rogers.com.51608: Flags [P.], seq 108:144, ack 1, win 501, length 36
+18:54:29.631104 IP 165.22.231.65.ssh > cpe7c9a54ce584e-cm7c9a54ce584c.cpe.net.cable.rogers.com.51608: Flags [P.], seq 144:252, ack 1, win 501, length 108
+18:54:29.631201 IP 165.22.231.65.ssh > cpe7c9a54ce584e-cm7c9a54ce584c.cpe.net.cable.rogers.com.51608: Flags [P.], seq 252:288, ack 1, win 501, length 36
+18:54:29.641532 IP cpe7c9a54ce584e-cm7c9a54ce584c.cpe.net.cable.rogers.com.51608 > 165.22.231.65.ssh: Flags [.], ack 144, win 2081, length 0
+18:54:29.645875 IP cpe7c9a54ce584e-cm7c9a54ce584c.cpe.net.cable.rogers.com.51608 > 165.22.231.65.ssh: Flags [.], ack 252, win 2087, length 0
+18:54:29.683078 IP cpe7c9a54ce584e-cm7c9a54ce584c.cpe.net.cable.rogers.com.51608 > 165.22.231.65.ssh: Flags [.], ack 288, win 2087, length 0
+18:54:29.741488 IP 49.88.112.75.62543 > 165.22.231.65.ssh: Flags [S], seq 2243113100, win 29200, options [mss 1460,sackOK,TS val 382634415 ecr 0,nop,wscale 7], length 0
+18:54:29.741594 IP 165.22.231.65.ssh > 49.88.112.75.62543: Flags [S.], seq 1588445257, ack 2243113101, win 65160, options [mss 1460,sackOK,TS val 4171559776 ecr 382634415,nop,wscale 7], length 0
+18:54:29.886070 IP 165.22.231.65.ssh > 36.255.156.126.38418: Flags [P.], seq 1141544878:1141544946, ack 722359726, win 507, options [nop,nop,TS val 2086937528 ecr 892130542], length 68
+18:54:30.148694 IP 36.255.156.126.38418 > 165.22.231.65.ssh: Flags [.], ack 68, win 148, options [nop,nop,TS val 892134437 ecr 2086937528,nop,nop,sack 1 {0:68}], length 0
+18:54:30.203979 IP 212.64.3.194.50528 > 165.22.231.65.ssh: Flags [FP.], seq 1332990896:1332990948, ack 401634590, win 262, options [nop,nop,TS val 800248704 ecr 4037758858], length 52
+18:54:30.302036 IP 194.147.140.118.49104 > 165.22.231.65.42483: Flags [S], seq 2185568478, win 1024, length 0
+

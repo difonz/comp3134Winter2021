@@ -1,0 +1,8 @@
+
+hping3 -i u1 -c 1000 www.ebgames.com -p 80 -s 3444 -S
+HPING www.ebgames.com (eth0 13.224.229.26): S set, 40 headers + 0 data bytes
+
+--- www.ebgames.com hping statistic ---
+1000 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+

@@ -1,0 +1,54 @@
+18:48:12.039419 IP 165.22.231.65.ssh > cpe7c9a54ce584e-cm7c9a54ce584c.cpe.net.cable.rogers.com.51608: Flags [P.], seq 1567486916:1567487024, ack 2430229247, win 501, length 108
+18:48:12.039589 IP 165.22.231.65.ssh > cpe7c9a54ce584e-cm7c9a54ce584c.cpe.net.cable.rogers.com.51608: Flags [P.], seq 108:144, ack 1, win 501, length 36
+18:48:12.039775 IP 165.22.231.65.ssh > cpe7c9a54ce584e-cm7c9a54ce584c.cpe.net.cable.rogers.com.51608: Flags [P.], seq 144:252, ack 1, win 501, length 108
+18:48:12.039917 IP 165.22.231.65.ssh > cpe7c9a54ce584e-cm7c9a54ce584c.cpe.net.cable.rogers.com.51608: Flags [P.], seq 252:288, ack 1, win 501, length 36
+18:48:12.049640 IP cpe7c9a54ce584e-cm7c9a54ce584c.cpe.net.cable.rogers.com.51608 > 165.22.231.65.ssh: Flags [.], ack 108, win 2086, length 0
+18:48:12.049641 IP cpe7c9a54ce584e-cm7c9a54ce584c.cpe.net.cable.rogers.com.51608 > 165.22.231.65.ssh: Flags [.], ack 288, win 2085, length 0
+18:48:12.060964 IP 104.131.29.6.35674 > 165.22.231.65.http: Flags [.], ack 1232745970, win 501, options [nop,nop,TS val 3896488885 ecr 3986756420], length 0
+18:48:12.086935 IP 165.22.231.65.http > 104.131.29.6.35682: Flags [F.], seq 618926405, ack 909170505, win 507, options [nop,nop,TS val 3986756500 ecr 3896483918], length 0
+18:48:12.141005 IP 104.131.29.6.35682 > 165.22.231.65.http: Flags [.], ack 1, win 501, options [nop,nop,TS val 3896488965 ecr 3986756500], length 0
+18:48:12.177237 IP 104.131.29.6.35670 > 165.22.231.65.http: Flags [F.], seq 167141206, ack 3503025027, win 501, options [nop,nop,TS val 3896489001 ecr 3986756382], length 0
+18:48:12.177238 IP 104.131.29.6.35674 > 165.22.231.65.http: Flags [F.], seq 0, ack 1, win 501, options [nop,nop,TS val 3896489001 ecr 3986756420], length 0
+18:48:12.177328 IP 165.22.231.65.http > 104.131.29.6.35670: Flags [.], ack 1, win 507, options [nop,nop,TS val 3986756590 ecr 3896489001], length 0
+18:48:12.177374 IP 165.22.231.65.http > 104.131.29.6.35674: Flags [.], ack 1, win 507, options [nop,nop,TS val 3986756590 ecr 3896489001], length 0
+18:48:12.177669 IP 104.131.29.6.35682 > 165.22.231.65.http: Flags [F.], seq 1, ack 1, win 501, options [nop,nop,TS val 3896489002 ecr 3986756500], length 0
+18:48:12.177688 IP 165.22.231.65.http > 104.131.29.6.35682: Flags [.], ack 2, win 507, options [nop,nop,TS val 3986756591 ecr 3896489002], length 0
+18:48:12.178685 IP 104.131.29.6.35666 > 165.22.231.65.http: Flags [F.], seq 1260260721, ack 586953045, win 501, options [nop,nop,TS val 3896489001 ecr 3986756356], length 0
+18:48:12.178685 IP 104.131.29.6.35664 > 165.22.231.65.http: Flags [F.], seq 3812136834, ack 3179005659, win 501, options [nop,nop,TS val 3896489001 ecr 3986756327], length 0
+18:48:12.178709 IP 165.22.231.65.http > 104.131.29.6.35666: Flags [.], ack 1, win 507, options [nop,nop,TS val 3986756592 ecr 3896489001], length 0
+18:48:12.178759 IP 165.22.231.65.http > 104.131.29.6.35664: Flags [.], ack 1, win 506, options [nop,nop,TS val 3986756592 ecr 3896489001], length 0
+18:48:12.214491 IP 165.22.231.65.http > 104.131.29.6.35690: Flags [F.], seq 1537983124, ack 523019234, win 508, options [nop,nop,TS val 3986756627 ecr 3896484046], length 0
+18:48:12.268982 IP 104.131.29.6.35690 > 165.22.231.65.http: Flags [.], ack 1, win 501, options [nop,nop,TS val 3896489093 ecr 3986756627], length 0
+18:48:12.284935 IP 104.131.29.6.35690 > 165.22.231.65.http: Flags [F.], seq 1, ack 1, win 501, options [nop,nop,TS val 3896489109 ecr 3986756627], length 0
+18:48:12.284989 IP 165.22.231.65.http > 104.131.29.6.35690: Flags [.], ack 2, win 508, options [nop,nop,TS val 3986756698 ecr 3896489109], length 0
+18:48:12.294089 IP 165.22.231.65.http > 104.131.29.6.35706: Flags [F.], seq 4225986412, ack 685058861, win 507, options [nop,nop,TS val 3986756707 ecr 3896484126], length 0
+18:48:12.348972 IP 104.131.29.6.35706 > 165.22.231.65.http: Flags [.], ack 1, win 501, options [nop,nop,TS val 3896489173 ecr 3986756707], length 0
+18:48:12.433024 IP 104.131.29.6.35706 > 165.22.231.65.http: Flags [F.], seq 1, ack 1, win 501, options [nop,nop,TS val 3896489257 ecr 3986756707], length 0
+18:48:12.433079 IP 165.22.231.65.http > 104.131.29.6.35706: Flags [.], ack 2, win 507, options [nop,nop,TS val 3986756846 ecr 3896489257], length 0
+18:48:12.605224 IP 157.230.93.183.56198 > 165.22.231.65.ssh: Flags [S], seq 478536837, win 29200, options [mss 1460,sackOK,TS val 54996104 ecr 0,nop,wscale 7], length 0
+18:48:12.605334 IP 165.22.231.65.ssh > 157.230.93.183.56198: Flags [S.], seq 3566798684, ack 478536838, win 65160, options [mss 1460,sackOK,TS val 444071465 ecr 54996104,nop,wscale 7], length 0
+18:48:12.618335 IP 157.230.93.183.56198 > 165.22.231.65.ssh: Flags [.], ack 1, win 229, options [nop,nop,TS val 54996108 ecr 444071465], length 0
+18:48:12.638490 IP 165.22.231.65.ssh > 157.230.93.183.56198: Flags [P.], seq 1:42, ack 1, win 510, options [nop,nop,TS val 444071498 ecr 54996108], length 41
+18:48:12.650936 IP 157.230.93.183.56198 > 165.22.231.65.ssh: Flags [.], ack 42, win 229, options [nop,nop,TS val 54996116 ecr 444071498], length 0
+18:48:12.713058 IP 157.230.93.183.56198 > 165.22.231.65.ssh: Flags [P.], seq 1:24, ack 42, win 229, options [nop,nop,TS val 54996132 ecr 444071498], length 23
+18:48:12.713119 IP 165.22.231.65.ssh > 157.230.93.183.56198: Flags [.], ack 24, win 510, options [nop,nop,TS val 444071573 ecr 54996132], length 0
+18:48:12.715636 IP 165.22.231.65.ssh > 157.230.93.183.56198: Flags [P.], seq 42:1098, ack 24, win 510, options [nop,nop,TS val 444071576 ecr 54996132], length 1056
+18:48:12.725504 IP 157.230.93.183.56198 > 165.22.231.65.ssh: Flags [P.], seq 24:672, ack 42, win 229, options [nop,nop,TS val 54996135 ecr 444071573], length 648
+18:48:12.725578 IP 165.22.231.65.ssh > 157.230.93.183.56198: Flags [.], ack 672, win 505, options [nop,nop,TS val 444071585 ecr 54996135], length 0
+18:48:12.727910 IP 157.230.93.183.56198 > 165.22.231.65.ssh: Flags [.], ack 1098, win 245, options [nop,nop,TS val 54996135 ecr 444071576], length 0
+18:48:12.728317 IP 165.22.231.65.ssh > 157.230.93.183.56198: Flags [F.], seq 1098, ack 672, win 505, options [nop,nop,TS val 444071588 ecr 54996135], length 0
+18:48:12.728907 IP 157.230.93.183.56198 > 165.22.231.65.ssh: Flags [F.], seq 672, ack 1098, win 245, options [nop,nop,TS val 54996136 ecr 444071576], length 0
+18:48:12.728930 IP 165.22.231.65.ssh > 157.230.93.183.56198: Flags [.], ack 673, win 505, options [nop,nop,TS val 444071589 ecr 54996136], length 0
+18:48:12.740826 IP 157.230.93.183.56198 > 165.22.231.65.ssh: Flags [.], ack 1099, win 245, options [nop,nop,TS val 54996139 ecr 444071588], length 0
+18:48:13.054951 IP 165.22.231.65.39685 > dns.google.domain: 55179+ PTR? 28.216.228.99.in-addr.arpa. (44)
+18:48:13.073820 IP dns.google.domain > 165.22.231.65.39685: 55179 1/0/0 PTR cpe7c9a54ce584e-cm7c9a54ce584c.cpe.net.cable.rogers.com. (113)
+18:48:13.074199 IP 165.22.231.65.55744 > dns.google.domain: 34021+ PTR? 65.231.22.165.in-addr.arpa. (44)
+18:48:13.082222 IP dns.google.domain > 165.22.231.65.55744: 34021 NXDomain 0/1/0 (111)
+18:48:13.082618 IP 165.22.231.65.41700 > dns.google.domain: 25067+ PTR? 6.29.131.104.in-addr.arpa. (43)
+18:48:13.090915 IP dns.google.domain > 165.22.231.65.41700: 25067 NXDomain 0/1/0 (110)
+18:48:13.091398 IP 165.22.231.65.45081 > dns.google.domain: 5393+ PTR? 183.93.230.157.in-addr.arpa. (45)
+18:48:13.099425 IP dns.google.domain > 165.22.231.65.45081: 5393 NXDomain 0/1/0 (112)
+18:48:13.982867 IP 49.88.112.75.61341 > 165.22.231.65.ssh: Flags [S], seq 2695791545, win 29200, options [mss 1460,sackOK,TS val 382540479 ecr 0,nop,wscale 7], length 0
+18:48:13.982953 IP 165.22.231.65.ssh > 49.88.112.75.61341: Flags [S.], seq 3136085220, ack 2695791546, win 65160, options [mss 1460,sackOK,TS val 4171184018 ecr 382540479,nop,wscale 7], length 0
+18:48:14.056969 IP 165.22.231.65.ssh > 36.133.139.72.39558: Flags [P.], seq 1694096458:1694096526, ack 1665106784, win 507, options [nop,nop,TS val 1978060425 ecr 3301522666], length 68
+
