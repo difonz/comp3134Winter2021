@@ -1,9 +1,0 @@
-curl -X GET -i -d "curl" https://dictionary.com
-
-curl -X GET -i -d "curlxyz" https://dictionary.com
-
-curl -X GET -i -d "helloworld" http://165.22.231.65/sending_info_to_app_1.php
-
-curl -X GET -i -d "<script>document.write('overwrite_everything')</script>https://165.22.231.65/sending_info_to_app_1.php
-
-curl -X GET -i -d "<script>document.write('overwrite_everything')</script>" https://165.22.231.65/sending_info_to_app_2.php
